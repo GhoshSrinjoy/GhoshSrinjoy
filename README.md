@@ -77,3 +77,7 @@ I’m **Srinjoy Ghosh**, a **Data Scientist** and **AI/ML Engineer** currently p
 
 Let’s collaborate and innovate together! 🚀
 
+## 🐍 Contribution Snake
+![GitHub Contribution Snake](https://github.com/GhoshSrinjoy/GhoshSrinjoy/blob/output/github-contribution-grid-snake.svg)
+
+
