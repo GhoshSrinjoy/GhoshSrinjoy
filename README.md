@@ -1,7 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub!
 
-I’m **Srinjoy Ghosh**, a passionate **Data Scientist** and **AI/ML Engineer** currently pursuing my Master’s in Data Science at [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.eu/), specializing in **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing**. My interests span from cutting-edge advancements in **Generative AI** to innovative **workflow automation** using **Large Language Models (LLMs)**.
-
+I’m **Srinjoy Ghosh**, a **Data Scientist** and **AI/ML Engineer** currently pursuing my Master’s in Data Science at [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.de/), specializing in **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing**.
 ---
 
 ## 🔭 What I’m Working On
