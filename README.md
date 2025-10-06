@@ -1,22 +1,17 @@
 # Hi there! 👋 Welcome to my GitHub!
 
-I’m **Srinjoy Ghosh**, a **Data Scientist** and **AI/ML Engineer** currently pursuing my Master’s in Data Science at [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.de/), specializing in **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing**.
+I'm **Srinjoy Ghosh**, a **Data Scientist** and **AI/ML Engineer** with a Master's in Data Science from [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.de/), specializing in **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing**.
 ---
 
 ## 🔭 What I’m Working On
 - **AI/ML Engineer @ RX-Systems**:
-  - Am currently doing my thesis.
-  - Developing and Researching LLM-based frameworks, including **multi-agent systems**.
+  - Currently, developing a **multi-agent system** for entire end-to-end Blackbox Testing (Requirement Analysis to Feature file generation) for XpressRT.
 
----
-
-## 🌱 Currently Learning
-- Advanced **Generative AI architectures**.
 
 ---
 
 ## 💼 Professional Experience
-- **AI/ML Engineer (HIWI)** at RX-Systems, Zwickau, Germany
+- **AI/ML Engineer (HIWI)** at RX-Systems, Berlin, Germany
 - **Data Scientist (HIWI)** at Fraunhofer IISB, Erlangen, Germany
 - **Python Django Trainee** at Golden Eagle IT Technology, Kolkata, India
 - **Data Analyst Intern** at Ausavi AI Pvt. Ltd., Bangalore, India
@@ -24,6 +19,17 @@ I’m **Srinjoy Ghosh**, a **Data Scientist** and **AI/ML Engineer** currently p
 ---
 
 ## 📊 Academic Projects
+
+- **Master's Thesis: RAG to RICHES - Multimodal Cross-Lingual RAG System**:
+  - Designed and implemented **RICHES** (RAG with Intelligent Cross-Document Clustering and Hybrid Ensemble Search), a novel self-hosted multilingual **Retrieval-Augmented Generation** system for secure document processing across English and German.
+  - Developed a novel **multimodal PDF parser** achieving state-of-the-art extraction of text, tables, images, and mathematical equations using layout detection (DETR) and specialized OCR, operating entirely locally without VLM dependencies.
+  - Engineered a **three-pipeline architecture** (Ingestor, Retriever, Generator) with progressive multi-strategy retrieval: Simple Search for factual queries, Chain-of-Thought for comparative analysis, and Agentic Planning for complex multi-step inquiries.
+  - Implemented **ingestion-time K-Means clustering** with Elbow Method optimization, transforming brute-force search into efficient two-stage lookup (cluster centroid → members), drastically reducing query latency while maintaining accuracy.
+  - Achieved **93.7% completion rate** vs. 30% for OpenAI Playground on heterogeneous benchmarks, processing 100 files across PDFs, DOCX, images, and structured data with specialized parsers within **24GB VRAM** constraint.
+  - Built **hybrid parallel retrieval** combining vector search, BM25 lexical search, SQL metadata search, and image similarity using Reciprocal Rank Fusion (RRF), with language-consistent generation and inline citation traceability.
+  - Processed complete ingestion pipeline in **10m 46s** with predictable cost distribution and sub-minute query response times, demonstrating 3.1× better search accuracy than commercial alternatives.
+
+---
 
 - **Workflow Automation using LLMs**:
   - Developed a system to accurately analyze text from emails and user conversations to extract project descriptions and deploy it in Argo Workflow.
@@ -56,7 +62,7 @@ I’m **Srinjoy Ghosh**, a **Data Scientist** and **AI/ML Engineer** currently p
 
 ## 🛠️ Technical Skills
 ### Programming:
-- Python, MATLAB, C++, C, Verilog
+- Python, MATLAB, JS, HTML, C++, C, Verilog
 
 ---
 
@@ -73,7 +79,7 @@ I’m **Srinjoy Ghosh**, a **Data Scientist** and **AI/ML Engineer** currently p
 
 ---
 
-⚡ **Fun Fact**: I recreated Metallica’s “Enter Sandman” using Arduino and piezo buzzers during an academic project. 🎵
+⚡ **Fun Fact**: I recreated Metallica’s “Enter Sandman” using Arduino and piezo buzzers. 🎵
 
 Let’s collaborate and innovate together! 🚀
 
