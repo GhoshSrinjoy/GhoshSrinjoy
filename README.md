@@ -74,8 +74,8 @@ I'm **Srinjoy Ghosh**, a **Data Scientist** and **AI/ML Engineer** with a Master
 
 ## 📫 Let’s Connect!
 - **Email**: [ghoshsrinjoy97@gmail.com](mailto:ghoshsrinjoy97@gmail.com)
-- **LinkedIn**: [[linkedin.com/in/srinjoyghosh](https://www.linkedin.com/in/srinjoy-ghosh-224852185/)]([https://www.linkedin.com/in/srinjoyghosh/](https://www.linkedin.com/in/srinjoy-ghosh-224852185/))
-- **Portfolio**: [srinjoyghosh.github.io](https://srinjoyghosh.github.io) (Coming soon!)
+- **LinkedIn**: [linkedin.com/in/srinjoyghosh]([https://www.linkedin.com/in/srinjoyghosh/](https://www.linkedin.com/in/srinjoy-ghosh-224852185/))
+- **Portfolio**: [https://sites.google.com/view/srinjoy-ghosh](https://srinjoyghosh.github.io](https://sites.google.com/view/srinjoy-ghosh)
 
 ---
 
