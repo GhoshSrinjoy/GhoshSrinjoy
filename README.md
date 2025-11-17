@@ -4,8 +4,9 @@ I'm **Srinjoy Ghosh**, a **Data Scientist** and **AI/ML Engineer** with a Master
 ---
 
 ## 🔭 What I’m Working On
-- **AI/ML Engineer @ RX-Systems**:
-  - Currently, developing a **multi-agent system** for entire end-to-end Blackbox Testing (Requirement Analysis to Feature file generation) for XpressRT.
+- **Software Development and Testing and AI/DS Consulting**:
+  - Software Testing and Development of communication protocols, Resource managers, etc, of edge-based Medical devices.
+  - Currently, developing version 2 of  the **multi-agent system** for entire end-to-end Blackbox Testing (Requirement Analysis to Feature file generation) for XpressRT (Version 1: Deployed using GitLab's CI/CD + Runpod Compute; and in testing).
 
 
 ---
