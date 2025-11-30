@@ -1,0 +1,18 @@
+<svg fill="none" viewBox="0 0 800 100" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .slider { width: 100%; height: 100px; overflow: hidden; display: flex; align-items: center; mask-image: linear-gradient(to right, transparent, #000 10% 90%, transparent); -webkit-mask-image: linear-gradient(to right, transparent, #000 10% 90%, transparent); }
+        .slide-track { display: flex; width: calc(150px * 14); animation: scroll 20s linear infinite; }
+        .slide { width: 150px; height: 80px; display: flex; align-items: center; justify-content: center; font-family: monospace; font-size: 18px; font-weight: bold; color: #fff; background: #161b22; border-radius: 8px; margin: 0 10px; border: 1px solid #30363d; }
+        @keyframes scroll { 0% { transform: translateX(0); } 100% { transform: translateX(calc(-150px * 7)); } }
+      </style>
+      <div class="slider">
+        <div class="slide-track">
+          <div class="slide" style="color:#3776AB;">Python</div><div class="slide" style="color:#EE4C2C;">PyTorch</div><div class="slide" style="color:#00599C;">C++</div><div class="slide" style="color:#2496ED;">Docker</div><div class="slide" style="color:#FF6F00;">TensorFlow</div><div class="slide" style="color:#F7931E;">Scikit</div><div class="slide" style="color:#e16737;">MATLAB</div>
+          <div class="slide" style="color:#3776AB;">Python</div><div class="slide" style="color:#EE4C2C;">PyTorch</div><div class="slide" style="color:#00599C;">C++</div><div class="slide" style="color:#2496ED;">Docker</div><div class="slide" style="color:#FF6F00;">TensorFlow</div><div class="slide" style="color:#F7931E;">Scikit</div><div class="slide" style="color:#e16737;">MATLAB</div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
