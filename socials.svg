@@ -1,1 +1,56 @@
 
+<svg fill="none" viewBox="0 0 800 120" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .social-container { display: flex; justify-content: center; align-items: center; height: 120px; padding-top: 10px; }
+        .social-list { display: flex; list-style: none; padding: 0; margin: 0; }
+        .social-item { margin: 0 25px; width: 50px; height: 50px; }
+        
+        /* ISOMETRIC BASE STYLE */
+        .social-link { position: relative; display: flex; justify-content: center; align-items: center; width: 100%; height: 100%; background: #fff; text-decoration: none; transform: perspective(1000px) rotate(-30deg) skew(25deg); transition: all 0.4s ease; box-shadow: -20px 20px 10px rgba(0, 0, 0, 0.5); }
+        .social-link::before { content: ""; position: absolute; top: 10px; left: -20px; height: 100%; width: 20px; background: #b1b1b1; transition: 0.4s; transform: rotate(0deg) skewY(-45deg); }
+        .social-link::after { content: ""; position: absolute; bottom: -20px; left: -10px; height: 20px; width: 100%; background: #b1b1b1; transition: 0.4s; transform: rotate(0deg) skewX(-45deg); }
+        
+        /* COLORS & HOVER */
+        /* Email - Red */
+        .mail .social-link { background: #D14836; color: white; }
+        .mail .social-link::before { background: #8f2a1d; }
+        .mail .social-link::after { background: #b53625; }
+        
+        /* LinkedIn - Blue */
+        .linkedin .social-link { background: #0077B5; color: white; }
+        .linkedin .social-link::before { background: #004d75; }
+        .linkedin .social-link::after { background: #006091; }
+        
+        /* Portfolio - Web Blue/Green */
+        .web .social-link { background: #4285F4; color: white; }
+        .web .social-link::before { background: #1c52b0; }
+        .web .social-link::after { background: #2a65d1; }
+
+        /* SVG ICONS */
+        svg { width: 24px; height: 24px; fill: white; }
+      </style>
+      
+      <div class="social-container">
+        <ul class="social-list">
+          <li class="social-item mail">
+            <a class="social-link">
+               <svg viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
+            </a>
+          </li>
+          <li class="social-item linkedin">
+            <a class="social-link">
+              <svg viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            </a>
+          </li>
+          <li class="social-item web">
+            <a class="social-link">
+               <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
