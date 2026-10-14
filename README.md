@@ -34,7 +34,7 @@ I hold a **Master’s in Data Science from FAU Erlangen-Nürnberg** and have ove
 | **[Chatroom](https://github.com/GhoshSrinjoy/ChatRoom)** | Shared conversations for coding-agent CLIs and local models, with task handoffs, team workflows, and per-agent permissions. |
 | **[Sat-Seg](https://github.com/GhoshSrinjoy/Sat-Seg)** | Local aerial-image segmentation with SAM 3, map-record matching, detection review, and GeoJSON/CSV exports. |
 | **[Dev on Demand](https://github.com/GhoshSrinjoy/Dev-on-Demand)** | Project detection, devcontainer generation, and GPU-ready development environments from a CLI. |
-| **[DeepSeek OCR Docker](https://github.com/GhoshSrinjoy/DeepseekOCR)** | GPU-accelerated document OCR with Docker, a Flask API, streaming endpoints, and persistent model caching. |
+| **[Diagram OCR](https://github.com/GhoshSrinjoy/Diagram-OCR)** | OCR for extracting text from diagram images. |
 
 **MCP tools:** [LinkedIn Jobs](https://github.com/GhoshSrinjoy/linkedin-job-mcp) · [Overleaf](https://github.com/GhoshSrinjoy/Overleaf-mcp) · [Web Search](https://github.com/GhoshSrinjoy/Web_search_mcp)
 
