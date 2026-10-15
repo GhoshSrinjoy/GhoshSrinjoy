@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinjoy-ghosh-224852185/)
 [![Email](https://img.shields.io/badge/Email-333A45?style=flat-square&logo=gmail&logoColor=white)](mailto:ghoshsrinjoy97@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2463A6?style=flat-square&logo=googlechrome&logoColor=white)](https://varshaspam02-spec.github.io/portfolio/index.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2463A6?style=flat-square&logo=googlechrome&logoColor=white)](https://ghoshsrinjoy.github.io/)
 
 ## About me
 
